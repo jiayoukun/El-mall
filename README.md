@@ -41,9 +41,7 @@ service：接口函数的实现
 
 本项目使用Go Mod管理依赖。
 
-git clone https://github.com/congz666/cmall-go.git
-
-cd cmall-go
+git clone https://github.com/jiayoukun/El-mall.git
 
 go run main.go
 
