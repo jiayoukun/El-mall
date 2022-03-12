@@ -30,7 +30,6 @@ pkg / e：封装错误码
 
 pkg / util：工具函数
 
-pkg / sdk: 极验 sdk 核心函数
 
 serializer：将数据序列化为 json 的函数
 
